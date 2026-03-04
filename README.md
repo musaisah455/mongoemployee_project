@@ -69,7 +69,7 @@ Create your feature branch (git checkout -b amazing feature)
 
 Commit your changes (git commit -m 'Add some amazing feature')
 
-Push to the branch (git push origin amazing-feature)
+Push to the branch (git push origin amazing feature)
 
 Open a Pull Request
 

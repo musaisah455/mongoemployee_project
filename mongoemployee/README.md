@@ -65,11 +65,11 @@ Application starts at: http://localhost:8080/api/employees
 
 Fork the repository
 
-Create your feature branch (git checkout -b feature/amazing-feature)
+Create your feature branch (git checkout -b amazing feature)
 
 Commit your changes (git commit -m 'Add some amazing feature')
 
-Push to the branch (git push origin feature/amazing-feature)
+Push to the branch (git push origin amazing feature)
 
 Open a Pull Request
 
