@@ -74,3 +74,9 @@ Push to the branch (git push origin feature/amazing-feature)
 Open a Pull Request
 
 ## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Made by Musa in Abuja
+
+Last updated: February 2026
