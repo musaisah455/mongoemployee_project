@@ -58,7 +58,7 @@ Application starts at: http://localhost:8080/api/employees
 #### POST----------------/api/employees-------------Create new employee
 #### GET------------------/api/employees-------------Get all employees
 #### GET----------------/api/employees/{id}---------Get employee by ID
-#### PUT-----------------/employees/{id}------------Update existing employee
+#### PUT-----------------/employees/{id}-------------Update existing employee
 #### DELETE-------------/employees/{id}--------------Delete existing employee
 
 ## Contributing
