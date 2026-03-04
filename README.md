@@ -57,7 +57,7 @@ Application starts at: http://localhost:8080/api/employees
 ### Method----------Endpoint--------------Description
 #### POST----------------/api/employees-------------Create new employee
 #### GET------------------/api/employees-------------Get all employees
-#### GET----------------/api/employees/{id}---------Get employee by ID
+#### GET----------------/api/employees/{id}----------Get employee by ID
 #### PUT-----------------/employees/{id}-------------Update existing employee
 #### DELETE-------------/employees/{id}--------------Delete existing employee
 
@@ -65,11 +65,11 @@ Application starts at: http://localhost:8080/api/employees
 
 Fork the repository
 
-Create your feature branch (git checkout -b feature/amazing-feature)
+Create your feature branch (git checkout -b amazing feature)
 
 Commit your changes (git commit -m 'Add some amazing feature')
 
-Push to the branch (git push origin feature/amazing-feature)
+Push to the branch (git push origin amazing-feature)
 
 Open a Pull Request
 
