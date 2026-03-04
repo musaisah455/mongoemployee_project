@@ -1,6 +1,6 @@
 # mongoemployee_project
 
-A RESTful Spring Boot application for managing mongoemployees' information (first name, last name, email, department, position and salary) with input validation, DTO pattern(only request DTO) and MapStruct.
+A RESTful Spring Boot application for managing mongoemployees' information (first name, last name, email, department, position, salary) with input validation, DTO pattern(only request DTO) and MapStruct.
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
