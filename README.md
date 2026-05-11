@@ -39,7 +39,8 @@ git clone https://github.com/musaisah455/mongoemployee_project.git
 cd mongoemployee_project
 ```
 
-Install dependencies
+### Install dependencies
+
 ```
 mvn clean install
 ```
@@ -54,12 +55,13 @@ Application starts at: http://localhost:8080/api/employees
 
 ## Employee API Endpoints
 
-### Method----------Endpoint--------------Description
-#### POST----------------/api/employees-------------Create new employee
-#### GET------------------/api/employees-------------Get all employees
-#### GET----------------/api/employees/{id}----------Get employee by ID
-#### PUT-----------------/employees/{id}-------------Update existing employee
-#### DELETE-------------/employees/{id}--------------Delete existing employee
+| Method  | Endpoint            |Description
+|:--------|:--------------------|:---
+| POST    | /api/employees      | Create new employee
+| GET     | /api/employees      | Get all employees
+| GET     | /api/employees/{id} | Get employee by ID
+| PUT     | /employees/{id}     | Update existing employee 
+ |  DELETE | /employees/{id}     | Delete existing employee 
 
 ## Contributing
 
@@ -77,6 +79,6 @@ Open a Pull Request
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Made by Musa in Abuja
+Made by Musa
 
 Last updated: February 2026
