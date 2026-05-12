@@ -5,6 +5,8 @@ A RESTful Spring Boot application for managing mongoemployees' information (firs
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Mongodb](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
+![MapStruct](https://img.shields.io/badge/MapStruct-000000?style=for-the-badge)
+
 
 ## Table of Contents
 
@@ -61,7 +63,7 @@ Application starts at: http://localhost:8080/api/employees
 | GET     | /api/employees      | Get all employees
 | GET     | /api/employees/{id} | Get employee by ID
 | PUT     | /employees/{id}     | Update existing employee 
- |  DELETE | /employees/{id}     | Delete existing employee 
+| DELETE  |  /employees/{id}     | Delete existing employee 
 
 ## Contributing
 
